@@ -1,0 +1,14 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "main": "test_file.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.4.7",
+    "loadsh": "^0.0.4"
+  },
+  "scripts": {
+    "test": "jest",
+    "execute": "node test_file.js"
+  }
+}
